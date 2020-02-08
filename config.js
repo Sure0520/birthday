@@ -9,7 +9,7 @@ var config = {
         "这是我们在一起的",
         "第三个生日了哦",
         "去年的生日",
-        "还记得在王婆串串吃的呢",
+        "",
         "今年要吃好的喽哦",
         "要把我家可爱猪猪喂饱饱",
         "然后抱走",
@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "最后....",
     }
 };
